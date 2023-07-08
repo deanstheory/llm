@@ -2,28 +2,36 @@
   "results": [],
   "matches": [
     {
-      "id": "756f890c-05dc-4ee3-b841-32983c1bcbb6",
+      "id": "bfa7db06-37cb-4dc4-b792-f66232cb2da4",
       "score": 0,
       "values": [
-        -0.0128864311,
-        0.00634015258,
-        0.012858,
-        -0.0182670318,
-        -0.00173074799,
-        0.0193474162,
-        -0.0120263873,
-        -0.00362675218,
-        -0.022218965,
-        -0.0502947532,
-        -0.0041580596,
-        0.0344585851,
-        -0.00255169813,
-        0.00310432911,
-        -0.00536993844,
-        ...
+        -0.00745585281,
+        0.00136044,
+        -0.00521909678,
+        -0.00050984876,
+        -0.0135892192,
+        -0.00441615889,
+        -0.014344926,
+        -0.0253026672,
+        0.00223000837,
+        -0.00394046865,
+        -0.000412855181,
+        0.0461520664,
+        -0.0197563227,
+        0.00885256,
+        -0.00823854841,
+        -0.00543838646,
+        0.0294725467,
+        0.0061805984,
+        0.0108970152,
+        0.0124961436,
+        -0.019513417,
+       ...
       ],
       "metadata": {
-        "text": "selection of optimal algorithms to \ndiscretize model variables, and the \nselection of appropriate machine learning \ntechniques to learn the model from the \ndata. The team followed information \ntheory principles to discretize model \nvariables to maximize the model’s \npredictive power, and to represent the \ndata as closely as possible with the \nleast amount of network complexity. \nBooz Allen segmented the model \nvariables into three different categories \nbased on the time to ﬂight departure: \n24 hours, 11 hours, and one hour. \nCertain ﬂight variables could only \nbe known for speciﬁc pre-departure \ntimes. For example, the tarmac and \nairspace congestion variables for \na ﬂight are only known just before \nthe ﬂight, and hence those variables \nfeature only in the one hour category. \nDeparture delays were predicted for \neach of the three time horizons. ››\nTHE FIELD  GUIDE to  DATA  SCIENCE"
+        "page": 1,
+        "source": "data/pdf/Aer_Lingus_flight_cancellation.pdf",
+        "text": "III. In the event of re-routing in connection with your cancelled fli ght, if the \nreasonably expected time of departure of the new flight is at least the day after the \ndeparture as it was planned for the cancelled flight, we will also offer  you: \n \n \n(a)  hotel accommodation in cases: \n-- where a stay of one or more nights becomes necessary; or \n-- where a stay additional to that intended by you becomes necessa ry; \nand \n(b)  transport between the airport and place of accommodation (hotel or other). \n \nIV. Except when: \n \n/head2right you are informed of the cancellation at least two weeks bef ore the \nscheduled time of departure; or \n \n/head2right you are informed of the cancellation between two weeks and seven da ys \nbefore the scheduled time of departure and are offered re-routing, allowing \nyou to depart no more than two hours before the scheduled time of \ndeparture and to reach your final destination less than four hours aft er the \nscheduled time of arrival; or \n \n/head2right you are informed of the cancellation less than seven days bef ore the \nscheduled time of departure and are offered re-routing, allowin g you to \ndepart no more than one hour before the scheduled time of departure a nd \nto reach your final destination less than two hours after the schedul ed time \nof arrival; or \n \n/head2right we can prove that the cancellation is caused by extraordinary \ncircumstances which could not have been avoided even if all reasonab le \nmeasures had been taken. \n \nyou are entitled to compensation as follows: \n \n(a)  EUR 250 for all flights of 1 500 kilometres or less; \n(b)  EUR 400 for all intra-Community flights of more than 1 500 kilometres , \nand for all other flights between 1 500 and 3 500 kilometres; \n(c)  EUR 600 for all flights not falling under (a) or (b) of this paragraph."
       }
     }
   ],
